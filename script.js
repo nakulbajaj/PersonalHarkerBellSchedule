@@ -40,9 +40,23 @@ var KEY_LEFT = 37;
 var KEY_UP = 38;
 var KEY_RIGHT = 39;
 var KEY_DOWN = 40;
+
 var KEY_A = 65;
 var KEY_B = 66;
-var KONAMI = "" + KEY_UP + KEY_UP + KEY_DOWN + KEY_DOWN + KEY_LEFT + KEY_RIGHT + KEY_LEFT + KEY_RIGHT + KEY_B + KEY_A;
+var KEY_I = 73;
+var KEY_W = 87;
+var KEY_N = 78;
+var KEY_T = 84;
+var KEY_O = 79;
+var KEY_K = 75;
+var KEY_L = 76;
+var KEY_M = 77;
+var KEY_Y = 89;
+var KEY_S = 83;
+var KEY_E = 69;
+var KEY_F = 70;
+
+var KONAMI = "" + KEY_I + KEY_W + KEY_A + KEY_N + KEY_T + KEY_T + KEY_O + KEY_K + KEY_I + KEY_L + KEY_L + KEY_M + KEY_Y + KEY_S + KEY_E + KEY_L + KEY_F;
 var isDoge;
 
 var START_DATE = new Date('August 22, 2016'); //The start day of the school year. This should be a weekday.
