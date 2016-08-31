@@ -1,6 +1,8 @@
 # Bell Schedule
 
-A clean bell schedule web application for Harker students
+A clean bell schedule web application for Harker students (my version)
+
+#GO FORK THE ORIGINAL PROJECT!
 
 ## Usage
 * Go to [the Github IO page](http://harkerdev.github.io/bellschedule/) to access the schedule
@@ -64,3 +66,5 @@ Inspired by, and derived from [this wiki page](https://github.com/vhf/free-progr
 * [Brian Chan](http://github.com/iluvredwall)
 * [Manan Shah](http://github.com/mananshah99)
 * [Andrew Tierno](http://github.com/andrew-tierno)
+
+Thanks guys
