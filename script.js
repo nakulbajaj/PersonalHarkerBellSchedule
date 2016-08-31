@@ -536,7 +536,7 @@ function calculateScheduleRotationID(date) {
  */
 function createPeriod(parent, name, start, end, date, showTime) {
 	//Do not show time for very small periods (e.g. class meetings)
-	//if(typeof(showTime) === "undefined") 
+	if(typeof(showTime) === "undefined") 
 	showTime = true;
     startDate = getDateFromString(start,date);
     endDate = getDateFromString(end,date);
